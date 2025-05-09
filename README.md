@@ -43,7 +43,7 @@ This tool is designed to be used within [Google Colab](https://colab.research.go
 - Music downloading powered by spotDL.
 - Interface built using ipywidgets in Google Colab.
 
-⚠️ Please respect copyright laws. This tool is intended for personal use only.
+⚠️ Please respect copyright laws. This tool is intended for personal/educational use only - Respect Spotify's ToS
 
 Required packages:
 ```python
